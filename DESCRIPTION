@@ -1,0 +1,12 @@
+Package: FiniteNormOrGammaMix
+Type: Package
+Title: Simulating Finite Normal or Gamma Mixtures
+Version: 0.1.0
+Authors@R: c(
+    person("Anna", "Ly", email = "annahuynh.ly@mail.utoronto.ca", role = c("cre", "aut")),
+    person("Luai", "Al Labadi", email = "luai.allabadi@utoronto.ca", role = "aut"))
+Description: This package allows the user to easily simulate a finite normal
+   mixture or a finite gamma mixture from the standard uniform distribution.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
